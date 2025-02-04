@@ -1,8 +1,12 @@
-# High-End Fashion Store - iOS App Design
+# HAAN sanitizers products pages
 
-Copyright 2025. Robert Berki All rights reserved.
+Design Copyright ✅
+Copyright 2025. Olesya Mikhaylina All rights reserved.
 
-## High-End Fashion Store - iOS App Design Robert Berki Design
+Handsoap Sunset Fleur products
+<https://haanbrand.com/products/hand-soap-sunset-fleur-1?_pos=3&_sid=f110319de&_ss=r>
+
+## HAAN sanitizers products page Olesya Mikhaylina Design
 
 <https://dribbble.com/shots/14115821/attachments/5738257?mode=media>
 
@@ -10,6 +14,6 @@ Copyright 2025. Robert Berki All rights reserved.
 
 ## 🕰️ 개발기간
 
-25.02.03 ~ 25.02.~~
+25.02.04 ~ 25.02.~~
 
 This repository was created to study HTML & SCSS. 💖
