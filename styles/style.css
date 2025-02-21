@@ -1,4 +1,4 @@
-@import url(./reset.scss);
+@import url(./reset.css);
 body {
   height: 100vh;
   display: grid;
@@ -81,11 +81,26 @@ body {
   gap: 10px;
   align-items: center;
 }
-.product .product__info .product__header .product__add-to-cart .product__qty .product__minus {
+.product
+  .product__info
+  .product__header
+  .product__add-to-cart
+  .product__qty
+  .product__minus {
   opacity: 0.5;
 }
-.product .product__info .product__header .product__add-to-cart .product__qty .product__minus,
-.product .product__info .product__header .product__add-to-cart .product__qty .product__plus {
+.product
+  .product__info
+  .product__header
+  .product__add-to-cart
+  .product__qty
+  .product__minus,
+.product
+  .product__info
+  .product__header
+  .product__add-to-cart
+  .product__qty
+  .product__plus {
   font-size: 22px;
 }
 .product .product__info .product__header .product__add-to-cart .product__price {
